@@ -1,0 +1,30 @@
+* {
+    font-family: 'Italic', sans-serif;
+    text-align: center;
+}
+body {
+    background-color: rgb(201, 185, 160, 0.62);
+}
+#header {
+    font-size: 100px;    
+}
+a {
+    text-decoration: none;
+    color: rgb(40, 70, 70);
+    font-size: 40px;
+    padding-bottom: 100px;
+
+}
+.lists { 
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+li {
+    padding-top: 10px;
+}
+
+p, li{
+    font-size: 20px;
+}
+
